@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(231, 214, 159);
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: brown;
+
+    padding: 50px;
+
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    margin: 20px;
+    margin-left: 0px;
+}
+
+div {
+    background-color: darkslategray;
+    display: flex;
+    margin: auto;
+    width: 30px;
+}
+
+section {
+    background-color: darkgoldenrod;
+    padding: 30px;
+    display: flex;
+    margin: auto;
+}
+
+footer {
+    background-color: darkorange;
+    padding: 10px;
+}
